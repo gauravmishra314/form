@@ -1,0 +1,78 @@
+*{
+    margin: 6%;
+    padding:0px;
+}
+.body{
+    background-color:rgb(174, 207, 96);
+    box-sizing: border-box;
+    border-radius: 3.5%;
+    margin: 15%;
+}
+.poster{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    margin:10px 10px 5px 10px;
+    height: 1%;
+    border-radius: 3%;
+}
+form{
+    margin: 0% 2.5% 2.5% 2.5%;
+}
+.info{
+    box-sizing: border-box;
+    border-radius: 3%;
+    margin:0%;
+    border-top: 10px solid rgb(59, 59, 134);
+    border-bottom:1px solid white;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    background-color: white;
+}
+.info-1{
+    margin:0.5%;
+    border-bottom: 1px solid gray;
+}
+.info-2{
+    margin: 0%;
+    border-bottom: 1px solid grey;
+}
+.info-3{
+    display: flex;
+    justify-content: space-around;
+    margin: 0%;
+    font-size: x-large;
+}
+#email{
+    margin-top: 0%;
+    font-size: x-large;
+}
+
+#email_logo{
+    margin-bottom: 0%;
+    margin-right: 0%;
+}
+
+.name{
+    background-color: white;
+    margin: 1% 0.5% 1%;
+    border-radius: 10px;
+}
+
+.detail{
+    background-color: white;
+    margin: 1% 0.5% 1%;
+    border-radius: 10px;
+}
+.submit{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+    margin-bottom: 1.5%;
+    height: 25%;
+}
+.caution{
+    margin-top: 2%;
+    margin-bottom: 1.5%;
+    
+}
